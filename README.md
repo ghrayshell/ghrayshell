@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 -->
 
 🌱 I’m currently learning JavaScript and MySQL
+😄 Just created this Profile README through GitHub Global Campus Education Modules!
 
