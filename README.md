@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning JavaScript and MySQL
+🌱 I’m currently learning JavaScript and MySQL\
 😄 Just created this Profile README through GitHub Global Campus Education Modules!
+
+## Ongoing Works:
+- BSMS Computer Science degree 🤓
+- Official Website for GZR Enterprises @ www.gzrenterprises.com
 
